@@ -1,6 +1,8 @@
 # js-game-snake
 My first practice of JavaScript Game / HTML5 Game.
 
+[Live Demo](http://lab.project-neko.com/snake/)
+
 ### Feature
 * The Snake has gradient color!
 
