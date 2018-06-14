@@ -1,8 +1,12 @@
 # js-game-snake
 My first practice of JavaScript Game / HTML5 Game.
 
+### Feature
+* The Snake has gradient color!
+
 ### Credit
-Original Design from: https://codepen.io/lukasvait/pen/Evbeo
+Original Design from: [CodePen](https://codepen.io/lukasvait/pen/Evbeo)
+
 Credit to [Lukas Vaitkevičius](https://codepen.io/lukasvait/)
 
 ### Changelog
